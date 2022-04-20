@@ -1,3 +1,4 @@
+
 let Lighthouse02;
 function preload() {
   Lighthouse02 = loadImage("https://i.imgur.com/PL5enbK.jpg");
